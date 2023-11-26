@@ -1,0 +1,2 @@
+# JapaneseLogicParser
+日本語xPythonでPrologのような論理演算を行う
